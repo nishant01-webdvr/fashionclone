@@ -1,0 +1,29 @@
+.flex{
+
+display: flex;
+
+}
+
+.bg-white{
+    background-color: white;
+}
+
+.flex1{
+    display: flex;
+    justify-content: space-between;
+
+    align-items: center;
+}
+
+.pos-rel{
+position: relative;
+}
+.txt-col   {
+    color: gray;
+}
+.txt-size{
+   font-size:  19px;
+}
+
+
+
